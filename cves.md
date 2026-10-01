@@ -7,7 +7,7 @@ Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
 
 Bogotá, Colombia · [+57 305 709 5593](tel:+573057095593) · [geiner.salcedo.ppc0111@gmail.com](mailto:geiner.salcedo.ppc0111@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/geiner-alexis-salcedo-salgado-3602a8125/) · [Credly](https://www.credly.com/users/geiner-alexis-salcedo-salgado)
+[LinkedIn](https://www.linkedin.com/in/geiner-alexis-salcedo-salgado-3602a8125/) · [Credly](https://www.credly.com/users/geiner-alexis-salcedo-salgado) · [Versión web](https://salcedogeiner.github.io/cv/)
 
 ---
 
