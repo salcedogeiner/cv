@@ -32,6 +32,20 @@ Cuento con habilidades avanzadas en el desarrollo y uso de agentes de inteligenc
 
 ---
 
+## Habilidades Blandas
+
+- Liderazgo técnico
+- Pensamiento estratégico
+- Orientación a resultados
+- Comunicación efectiva
+- Capacidad de influencia y negociación
+- Innovación y aprendizaje continuo
+- Trabajo colaborativo
+- Resolución de problemas complejos
+- Toma de decisiones basada en análisis técnico
+
+---
+
 ## Experiencia Laboral
 
 ### **IBM**, Bogotá, Colombia — *Arquitecto de Software*
